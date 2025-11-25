@@ -49,6 +49,7 @@ Tôi luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng
 ### **PDF Translation Tool – Personal Project**  
 - Công cụ dịch tài liệu PDF và giữ nguyên bố cục.  
 - **Tech:** PyMuPDF, OpenAI API, Gemini API, Ollama.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/pdftranslate1.png" width="45%"/>
   <img src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/pdftranslate2.png" width="45%"/>
@@ -65,3 +66,20 @@ Tôi luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng
 
 ## 🤝 Mục tiêu
 Không ngừng phát triển năng lực, đóng góp giá trị thực tế thông qua các ứng dụng AI/ML và đồng hành cùng doanh nghiệp trong các dự án lớn.
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Le-Ngoc-Tu&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Ngoc-Tu&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Le-Ngoc-Tu&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Le-Ngoc-Tu&theme=github-light"/>
+</p>
