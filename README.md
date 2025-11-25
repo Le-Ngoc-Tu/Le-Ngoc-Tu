@@ -54,7 +54,7 @@ Tôi luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng
 - **2024:** "Hệ thống điểm danh bằng nhận diện khuôn mặt" – Python + FaceNet – Xuất sắc.  
 - **2023:** "Hệ thống hỏi đáp tự động tư vấn tuyển sinh" – Xuất sắc.  
 - **2025:** Bài báo khoa học – *Tạp chí Nhà giáo Việt Nam*:  
-  **“Exam Fraud Detection Using YOLO Model”** – Độ chính xác 85%.
+  **“Exam Fraud Detection Using YOLO Model”**
 
 ## 🏅 Giải thưởng & Chứng nhận
 - **Chứng nhận tham gia Euréka 2024** – Đại học Quốc gia TP.HCM & Thành Đoàn TP.HCM (11/2024).
