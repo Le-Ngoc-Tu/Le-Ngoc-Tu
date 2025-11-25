@@ -53,6 +53,7 @@ Tôi luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng
   <img src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/pdftranslate1.png" width="45%"/>
   <img src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/pdftranslate2.png" width="45%"/>
 </p>
+
 ## 📚 Nghiên cứu & Công bố
 - **2024:** "Hệ thống điểm danh bằng nhận diện khuôn mặt" – Python + FaceNet – Xuất sắc.  
 - **2023:** "Hệ thống hỏi đáp tự động tư vấn tuyển sinh" – Xuất sắc.  
