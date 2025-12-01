@@ -1,12 +1,14 @@
 <!-- ================= HEADER BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lê%20Ngọc%20Tú&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=52&descSize=18"/>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+L%C3%AA+Ng%E1%BB%8Dc+T%C3%BA+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Backend Developer | AI & Machine Learning Enthusiast</h3>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Face+Recognition+Specialist+%F0%9F%91%A4;Building+Smart+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Backend+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Integration+%F0%9F%A4%96;Face+Recognition+%7C+Computer+Vision+%F0%9F%91%A4;Building+Smart+Solutions+for+Real+World+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,63 +20,54 @@
   </a>
 </p>
 
+<!-- ================= CONTACT BADGES ================= -->
 <p align="center">
   <a href="mailto:lntu2003.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lntu2003.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-lntu2003.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:+84969691930">
-    <img src="https://img.shields.io/badge/Phone-0969%20691%20930-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://zalo.me/0969691930">
+    <img src="https://img.shields.io/badge/Zalo-0969%20691%20930-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Le-Ngoc-Tu">
     <img src="https://img.shields.io/badge/GitHub-Le--Ngoc--Tu-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/le-ngoc-tu-8562a2347">
+    <img src="https://img.shields.io/badge/LinkedIn-Le%20Ngoc%20Tu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Phan%20Thiet%2C%20Binh%20Thuan%2C%20Vietnam-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🕐-UTC%20%2B07%3A00-blue?style=flat-square"/>
 </p>
 
 ---
 
 ## 👨‍💻 Về tôi
 
-```python
-class BackendDeveloper:
-    def __init__(self):
-        self.name = "Lê Ngọc Tú"
-        self.role = "Backend Developer"
-        self.focus = ["AI Integration", "Machine Learning", "Face Recognition"]
-        self.education = "Cử nhân CNTT - Đại học Phan Thiết (GPA: 3.77/4.0)"
-        self.current_work = "AI Research & Application @ Nguyên Luân Company"
-    
-    def say_hi(self):
-        print("Cảm ơn bạn đã ghé thăm profile của tôi! Let's build something amazing! 🚀")
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-me = BackendDeveloper()
-me.say_hi()
-```
+Tôi là **Backend Developer** với niềm đam mê mạnh mẽ dành cho **AI và Machine Learning**. Luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng dụng AI vào các hệ thống thực tế để tạo ra các giải pháp hiệu quả và có giá trị.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 Đang làm việc tại **Nguyên Luân Company** - AI Research & Application
+- 🔭 Đang làm việc tại **Nguyen Luan Company** - AI Research & Application
 - 🌱 Đang nghiên cứu **LLMs, RAG Systems, Computer Vision**
 - 👯 Sẵn sàng hợp tác các dự án về **AI/ML Integration**
 - 💬 Hỏi tôi về **Python, FastAPI, Face Recognition, YOLO**
 - 🎯 Mục tiêu: Đóng góp giá trị thực tế thông qua AI/ML
 - ⚡ Fun fact: *Code by day, research by night* 🌙
 
+<br clear="both">
+
 ---
 
 ## 🎓 Học vấn
 
-<table>
-<tr>
-<td>
-<img src="https://img.shields.io/badge/🎓-Cử_nhân_Công_nghệ_Thông_tin-blue?style=for-the-badge" alt="Degree"/>
-</td>
-<td>
-<strong>Đại học Phan Thiết</strong><br/>
-📅 09/2021 – 01/2025<br/>
-📊 <strong>GPA: 3.77 / 4.0</strong>
-</td>
-</tr>
-</table>
+| 🎓 Bằng cấp | 🏫 Trường | 📅 Thời gian | 📊 GPA |
+|-------------|-----------|--------------|--------|
+| Cử nhân Công nghệ Thông tin | Đại học Phan Thiết | 09/2021 – 01/2025 | **3.77 / 4.0** |
 
 ---
 
@@ -100,7 +93,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
   <img src="https://img.shields.io/badge/RAG_FAISS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="RAG FAISS"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/TTS_STT-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="TTS STT"/>
+  <img src="https://img.shields.io/badge/TTS_/_STT-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="TTS STT"/>
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
 </p>
 
@@ -120,30 +113,19 @@ me.say_hi()
 
 ## 💼 Kinh nghiệm làm việc
 
-<table>
-<tr>
-<td width="100" align="center">
-  <img src="https://img.shields.io/badge/💼-AI_Research-blueviolet?style=for-the-badge" alt="Work"/>
-</td>
-<td>
-  <h3>AI Research & Application – Nguyên Luân Company</h3>
-  <p><strong>📅 12/2024 – Hiện tại</strong></p>
-  <ul>
-    <li>🔬 Nghiên cứu, phát triển và tích hợp AI vào hệ thống backend nhằm tối ưu hiệu năng</li>
-    <li>🚀 Tham gia các dự án chuyển đổi số và triển khai giải pháp AI thực tế</li>
-    <li>👥 Làm việc với các đối tác doanh nghiệp và đơn vị chính phủ</li>
-  </ul>
-</td>
-</tr>
-</table>
+### 🏢 AI Research & Application – Nguyen Luan Company
+
+**📅 12/2024 – Hiện tại** | 📍 Phan Thiet, Binh Thuan, Vietnam
+
+- 🔬 Nghiên cứu, phát triển và tích hợp AI vào hệ thống backend nhằm tối ưu hiệu năng
+- 🚀 Tham gia các dự án chuyển đổi số và triển khai giải pháp AI thực tế
+- 👥 Làm việc với các đối tác doanh nghiệp và đơn vị chính phủ
 
 ---
 
 ## 🚀 Dự án tiêu biểu
 
-<details open>
-<summary><b>👤 Face Recognition Attendance System</b></summary>
-<br/>
+### 👤 Face Recognition Attendance System
 
 > 🎯 API chấm công thông minh bằng nhận diện khuôn mặt
 
@@ -160,11 +142,10 @@ me.say_hi()
   <img src="https://img.shields.io/badge/RetinaFace-00599C?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
-</details>
 
-<details open>
-<summary><b>🎫 KIOSK Queue Management System</b></summary>
-<br/>
+---
+
+### 🎫 KIOSK Queue Management System
 
 > 🏛️ Hệ thống lấy số thứ tự phục vụ người dân sau khi sáp nhập đơn vị hành chính
 
@@ -182,11 +163,10 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </p>
-</details>
 
-<details open>
-<summary><b>📄 PDF Translation Tool – Personal Project</b></summary>
-<br/>
+---
+
+### 📄 PDF Translation Tool – Personal Project
 
 > 🌍 Công cụ dịch tài liệu PDF thông minh, giữ nguyên bố cục
 
@@ -202,42 +182,23 @@ me.say_hi()
   <img src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/pdftranslate1.png" width="45%" alt="PDF Translate Screenshot 1"/>
   <img src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/pdftranslate2.png" width="45%" alt="PDF Translate Screenshot 2"/>
 </p>
-</details>
 
 ---
 
 ## 📚 Nghiên cứu & Công bố
 
-<table>
-<tr>
-<td align="center">📅 2025</td>
-<td>
-  <strong>📰 Bài báo khoa học – Tạp chí Nhà giáo Việt Nam</strong><br/>
-  <em>"Exam Fraud Detection Using YOLO Model"</em>
-</td>
-</tr>
-<tr>
-<td align="center">📅 2024</td>
-<td>
-  <strong>🏆 Xuất sắc</strong><br/>
-  <em>"Hệ thống điểm danh bằng nhận diện khuôn mặt"</em> – Python + FaceNet
-</td>
-</tr>
-<tr>
-<td align="center">📅 2023</td>
-<td>
-  <strong>🏆 Xuất sắc</strong><br/>
-  <em>"Hệ thống hỏi đáp tự động tư vấn tuyển sinh"</em>
-</td>
-</tr>
-</table>
+| 📅 Năm | 📝 Nghiên cứu | 🏆 Kết quả |
+|--------|---------------|------------|
+| 2025 | **"Exam Fraud Detection Using YOLO Model"** – Tạp chí Nhà giáo Việt Nam | 📰 Bài báo khoa học |
+| 2024 | **"Hệ thống điểm danh bằng nhận diện khuôn mặt"** – Python + FaceNet | 🥇 Xuất sắc |
+| 2023 | **"Hệ thống hỏi đáp tự động tư vấn tuyển sinh"** | 🥇 Xuất sắc |
 
 ---
 
 ## 🏅 Giải thưởng & Chứng nhận
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆_Euréka_2024-Đại_học_Quốc_gia_TP.HCM_&_Thành_Đoàn_TP.HCM-gold?style=for-the-badge" alt="Eureka 2024"/>
+  <img src="https://img.shields.io/badge/🏆_Euréka_2024-ĐH_Quốc_gia_TP.HCM_&_Thành_Đoàn_TP.HCM-gold?style=for-the-badge" alt="Eureka 2024"/>
 </p>
 
 > 📅 **11/2024** – Chứng nhận tham gia cuộc thi Euréka 2024
@@ -247,44 +208,19 @@ me.say_hi()
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Le-Ngoc-Tu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Ngoc-Tu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Le-Ngoc-Tu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Le-Ngoc-Tu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/Le-Ngoc-Tu">
+    <img src="https://streak-stats.demolab.com/?user=Le-Ngoc-Tu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Mục tiêu
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Le-Ngoc-Tu&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/output/github-snake.svg" />
-</picture>
-
----
-
-## 🎯 Mục tiêu 2025
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✅-Phát_triển_năng_lực_AI/ML-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/✅-Đóng_góp_giá_trị_thực_tế-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/✅-Đồng_hành_dự_án_lớn-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅-Phát_triển_năng_lực_AI%2FML-28a745?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅-Đóng_góp_giá_trị_thực_tế-28a745?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/✅-Đồng_hành_dự_án_lớn-28a745?style=for-the-badge"/>
 </p>
 
 > 💡 *"Không ngừng phát triển năng lực, đóng góp giá trị thực tế thông qua các ứng dụng AI/ML và đồng hành cùng doanh nghiệp trong các dự án lớn."*
@@ -305,20 +241,18 @@ me.say_hi()
   <a href="mailto:lntu2003.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://zalo.me/0969691930">
+    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"/>
+  </a>
   <a href="https://github.com/Le-Ngoc-Tu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/le-ngoc-tu">
+  <a href="https://www.linkedin.com/in/le-ngoc-tu-8562a2347">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
 
 <h2 align="center">✨ Cảm ơn bạn đã ghé thăm! ✨</h2>
 <p align="center">
@@ -336,5 +270,6 @@ me.say_hi()
 Keywords: Lê Ngọc Tú, Le Ngoc Tu, Backend Developer Vietnam, AI Developer, Machine Learning Engineer, 
 Face Recognition Developer, Python Developer, FastAPI Developer, YOLO Developer, Computer Vision Vietnam,
 FaceNet Developer, RetinaFace, RAG Systems, LLM Integration, Vietnam AI Developer, 
-Đại học Phan Thiết, Vietnamese Software Engineer, AI Research Vietnam, Nguyên Luân Company
+Đại học Phan Thiết, Vietnamese Software Engineer, AI Research Vietnam, Nguyen Luan Company,
+Phan Thiet Developer, Binh Thuan IT, Vietnam Tech, Backend Engineer Vietnam
 -->
