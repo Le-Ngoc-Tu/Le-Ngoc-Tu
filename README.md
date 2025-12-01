@@ -50,7 +50,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Tôi là **Backend Developer** với niềm đam mê mạnh mẽ dành cho **AI và Machine Learning**. Luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng dụng AI vào các hệ thống thực tế để tạo ra các giải pháp hiệu quả và có giá trị.
+Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI và Machine Learning**. Luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng dụng AI vào các hệ thống thực tế để tạo ra các giải pháp hiệu quả và có giá trị.
 
 - 🔭 Đang làm việc tại **Nguyen Luan Company** - AI Research & Application
 - 🌱 Đang nghiên cứu **LLMs, RAG Systems, Computer Vision**
@@ -230,16 +230,12 @@ Tôi là **Backend Developer** với niềm đam mê mạnh mẽ dành cho **AI 
 ## 💬 Trích dẫn yêu thích
 
 <div align="center">
-  
-  ```
-  ✨ "Không phải ai cũng có cơ hội làm lại từ đầu,
-        nhưng ai cũng có thể bắt đầu từ hôm nay." ✨
-  ```
-  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=DA251D&height=60&text=%22Không%20phải%20ai%20cũng%20có%20cơ%20hội%20làm%20lại%20từ%20đầu,%20nhưng%20ai%20cũng%20có%20thể%20bắt%20đầu%20từ%20hôm%20nay.%22&fontColor=FFCD00&fontSize=18&fontAlign=50&fontAlignY=50" alt="Quote"/>
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Mindset-Luôn_tiến_về_phía_trước-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🇻🇳_Tinh_thần-Việt_Nam-DA251D?style=for-the-badge&labelColor=FFCD00"/>
+  <img src="https://img.shields.io/badge/💪_Mindset-Luôn_tiến_về_phía_trước-DA251D?style=for-the-badge&labelColor=FFCD00"/>
 </p>
 
 ---
