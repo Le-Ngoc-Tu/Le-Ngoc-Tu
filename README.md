@@ -229,8 +229,17 @@ Tôi là **Backend Developer** với niềm đam mê mạnh mẽ dành cho **AI 
 
 ## 💬 Trích dẫn yêu thích
 
+<div align="center">
+  
+  ```
+  ✨ "Không phải ai cũng có cơ hội làm lại từ đầu,
+        nhưng ai cũng có thể bắt đầu từ hôm nay." ✨
+  ```
+  
+</div>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://img.shields.io/badge/💡_Mindset-Luôn_tiến_về_phía_trước-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
