@@ -115,7 +115,7 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
 
 ### 🏢 AI Research & Application – Nguyen Luan Company
 
-**📅 12/2024 – Hiện tại** | 📍 Phan Thiet, Binh Thuan, Vietnam
+**📅 12/2024 – Hiện tại** | 📍 Hàm Thắng, Lâm Đồng, Việt Nam
 
 - 🔬 Nghiên cứu, phát triển và tích hợp AI vào hệ thống backend nhằm tối ưu hiệu năng
 - 🚀 Tham gia các dự án chuyển đổi số và triển khai giải pháp AI thực tế
