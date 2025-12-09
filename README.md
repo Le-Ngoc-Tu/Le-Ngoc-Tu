@@ -52,7 +52,7 @@
 
 Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI và Machine Learning**. Luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng dụng AI vào các hệ thống thực tế để tạo ra các giải pháp hiệu quả và có giá trị.
 
-- 🔭 Đang làm việc tại **Nguyen Luan Company** - AI Research & Application
+- 🔭 Đang làm việc tại **Công ty TNHH Giải pháp phần mềm Nguyên Luân (NLTECH)** - AI Research & Application
 - 🌱 Đang nghiên cứu **LLMs, RAG Systems, Computer Vision**
 - 👯 Sẵn sàng hợp tác các dự án về **AI/ML Integration**
 - 💬 Hỏi tôi về **Python, FastAPI, Face Recognition, YOLO**
@@ -113,7 +113,7 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
 
 ## 💼 Kinh nghiệm làm việc
 
-### 🏢 AI Research & Application – Nguyen Luan Company
+### 🏢 AI Research & Application – Công ty TNHH Giải pháp phần mềm Nguyên Luân (NLTECH)
 
 **📅 12/2024 – Hiện tại** | 📍 Hàm Thắng, Lâm Đồng, Việt Nam
 
@@ -207,11 +207,15 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Le-Ngoc-Tu">
-    <img src="https://streak-stats.demolab.com/?user=Le-Ngoc-Tu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Le-Ngoc-Tu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Ngoc-Tu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Le-Ngoc-Tu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
 
 ---
 
@@ -275,6 +279,6 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
 Keywords: Lê Ngọc Tú, Le Ngoc Tu, Backend Developer Vietnam, AI Developer, Machine Learning Engineer, 
 Face Recognition Developer, Python Developer, FastAPI Developer, YOLO Developer, Computer Vision Vietnam,
 FaceNet Developer, RetinaFace, RAG Systems, LLM Integration, Vietnam AI Developer, 
-Đại học Phan Thiết, Vietnamese Software Engineer, AI Research Vietnam, Nguyen Luan Company,
+Đại học Phan Thiết, Vietnamese Software Engineer, AI Research Vietnam, NLTECH, Nguyen Luan Company,
 Phan Thiet Developer, Binh Thuan IT, Vietnam Tech, Backend Engineer Vietnam
 -->
