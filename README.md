@@ -3,12 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+L%C3%AA+Ng%E1%BB%8Dc+T%C3%BA+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Backend Developer | AI & Machine Learning Enthusiast</h3>
+<h3 align="center">🤖 AI Engineer | LLM · RAG · Computer Vision</h3>
 
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Backend+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Integration+%F0%9F%A4%96;Face+Recognition+%7C+Computer+Vision+%F0%9F%91%A4;Building+Smart+Solutions+for+Real+World+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=AI+Engineer;LLM+%26+RAG+Systems;Fine-tuning+Vietnamese+AI+Models;Computer+Vision+%26+YOLO;Building+Smart+Solutions+for+Real+World" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,7 +40,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-Phan%20Thiet%2C%20Binh%20Thuan%2C%20Vietnam-success?style=flat-square"/>
+  <a href="https://huggingface.co/LeNgocTu">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-LeNgocTu-FFD21E?style=for-the-badge&logoColor=black"/>
+  </a>
+  <a href="https://lengoctu.com">
+    <img src="https://img.shields.io/badge/Website-lengoctu.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Phan%20Thiet%2C%20Lam%20Dong%2C%20Vietnam-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/🕐-UTC%20%2B07%3A00-blue?style=flat-square"/>
 </p>
 
@@ -50,12 +59,12 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI và Machine Learning**. Luôn chủ động học hỏi, nghiên cứu công nghệ mới và ứng dụng AI vào các hệ thống thực tế để tạo ra các giải pháp hiệu quả và có giá trị.
+Tôi là **AI Engineer** với niềm đam mê mạnh mẽ dành cho **AI và Machine Learning**. Tập trung vào **LLMs, RAG và Computer Vision**, đồng thời fine-tune các mô hình AI cho tiếng Việt và đưa vào các hệ thống thực tế trong môi trường doanh nghiệp và chính phủ.
 
-- 🔭 Đang làm việc tại **Công ty TNHH Giải pháp phần mềm Nguyên Luân (NLTECH)** - AI Research & Application
-- 🌱 Đang nghiên cứu **LLMs, RAG Systems, Computer Vision**
-- 👯 Sẵn sàng hợp tác các dự án về **AI/ML Integration**
-- 💬 Hỏi tôi về **Python, FastAPI, Face Recognition, YOLO**
+- 🔭 Đang làm việc tại **Công ty TNHH Giải pháp phần mềm Nguyên Luân (NLTECH)** – AI Engineer
+- 🌱 Đang nghiên cứu **LLMs, RAG Systems, fine-tuning mô hình tiếng Việt & Computer Vision**
+- 🤗 Fine-tune và công bố model trên HuggingFace: **TTS Việt–Nhật, LLM persona, embedding tiếng Việt**
+- 💬 Hỏi tôi về **Python, FastAPI, LLM/RAG, YOLO, Face Recognition**
 - 🎯 Mục tiêu: Đóng góp giá trị thực tế thông qua AI/ML
 - ⚡ Fun fact: *Code by day, research by night* 🌙
 
@@ -76,36 +85,40 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
 ### 💻 Backend & Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,react" alt="Backend & Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,react,nextjs" alt="Backend & Frontend Skills"/>
 </p>
 
 ### 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Database Skills"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres" alt="Database Skills"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FaceNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="FaceNet"/>
-  <img src="https://img.shields.io/badge/RetinaFace-00599C?style=for-the-badge&logo=opencv&logoColor=white" alt="RetinaFace"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/RAG_FAISS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="RAG FAISS"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Fine--tuning_(LoRA)-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Fine-tuning LoRA"/>
+  <img src="https://img.shields.io/badge/RAG_(LlamaIndex_/_FAISS)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Embedding-5C3EE8?style=for-the-badge&logo=databricks&logoColor=white" alt="Embedding"/>
   <img src="https://img.shields.io/badge/TTS_/_STT-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="TTS STT"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/FaceNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="FaceNet"/>
   <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
 </p>
 
 ### 🚀 DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux" alt="DevOps Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,nginx" alt="DevOps Tools"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastPanel-2C2C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="FastPanel"/>
   <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn"/>
+  <img src="https://img.shields.io/badge/vLLM-FDBA12?style=for-the-badge&logoColor=black" alt="vLLM"/>
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
@@ -113,62 +126,107 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
 
 ## 💼 Kinh nghiệm làm việc
 
-### 🏢 AI Research & Application – Công ty TNHH Giải pháp phần mềm Nguyên Luân (NLTECH)
+### 🏢 AI Engineer – Công ty TNHH Giải pháp phần mềm Nguyên Luân (NLTECH)
 
-**📅 12/2024 – Hiện tại** | 📍 Hàm Thắng, Lâm Đồng, Việt Nam
+**📅 12/2024 – Hiện tại** | 📍 Phan Thiết, Lâm Đồng, Việt Nam
 
-- 🔬 Nghiên cứu, phát triển và tích hợp AI vào hệ thống backend nhằm tối ưu hiệu năng
-- 🚀 Tham gia các dự án chuyển đổi số và triển khai giải pháp AI thực tế
-- 👥 Làm việc với các đối tác doanh nghiệp và đơn vị chính phủ
+- 🔬 Nghiên cứu, fine-tune và huấn luyện các mô hình AI cho tiếng Việt (embedding, LLM persona, TTS); công bố mô hình trên HuggingFace
+- 🧠 Xây dựng pipeline RAG & LLM (LlamaIndex, Qdrant, FAISS) để tự động hóa truy xuất thông tin và sinh câu trả lời
+- 👁️ Phát triển tính năng thị giác máy tính (nhận diện khuôn mặt, phát hiện đối tượng) và tích hợp vào backend đưa vào sản xuất
+- 🚀 Triển khai giải pháp AI end-to-end cho khách hàng doanh nghiệp và đơn vị chính phủ
 
 ---
 
 ## 🚀 Dự án tiêu biểu
 
-### 👤 Face Recognition Attendance System
+### 🏛️ Kiosk AI hỗ trợ thủ tục hành chính (AAAS Chatbot)
 
-> 🎯 API chấm công thông minh bằng nhận diện khuôn mặt
-
-| Tính năng | Mô tả |
-|-----------|-------|
-| 📸 Nhận diện khuôn mặt | Sử dụng FaceNet512 + RetinaFace |
-| 🔗 Tích hợp | Kết nối với hệ thống backend công ty |
-| 📊 Quản lý | Dữ liệu chấm công tập trung |
+> 🎯 Chatbot AI đa agent trên kiosk, hỗ trợ tra cứu thủ tục hành chính bằng giọng nói kết hợp RAG
 
 **Tech Stack:**
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FaceNet512-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RetinaFace-00599C?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OmniVoice_TTS-FF9900?style=flat-square&logo=amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
-### 🎫 KIOSK Queue Management System
+### 🗣️ Irodori-Sen TTS – Mô hình TTS song ngữ Việt – Nhật
 
-> 🏛️ Hệ thống lấy số thứ tự phục vụ người dân sau khi sáp nhập đơn vị hành chính
+> 🎙️ Fine-tune mô hình Text-to-Speech tổng hợp giọng nói tiếng Việt và tiếng Nhật, hướng tới chất lượng tự nhiên
 
-| Tính năng | Mô tả |
-|-----------|-------|
-| 📱 Giao diện | ReactJS responsive |
-| ⚡ Real-time | SocketIO communication |
-| 🌐 Triển khai | Đã deploy tại nhiều địa phương |
+<a href="https://huggingface.co/LeNgocTu/Irodori-Sen-TTS">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-LeNgocTu%2FIrodori--Sen--TTS-FFD21E?style=flat-square&logoColor=black"/>
+</a>
 
 **Tech Stack:**
 <p>
+  <img src="https://img.shields.io/badge/Text--to--Speech-FF9900?style=flat-square&logo=amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine--tuning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+</p>
+
+---
+
+### 🧩 gemma-4-E2B Vietnam Personas – Mô hình LLM persona tiếng Việt (GGUF)
+
+> 🧠 Fine-tune mô hình Gemma (E2B) với bộ persona tiếng Việt, lượng tử hóa GGUF để chạy suy luận cục bộ trên phần cứng cấu hình thấp / edge
+
+<a href="https://huggingface.co/LeNgocTu/gemma-4-E2B-vietnam-personas-gguf">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-LeNgocTu%2Fgemma--4--E2B--vietnam--personas--gguf-FFD21E?style=flat-square&logoColor=black"/>
+</a>
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine--tuning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GGUF-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Edge_/_On--device-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+---
+
+### 🔎 vietnamese-embeddinggemma-300m – Mô hình embedding tiếng Việt
+
+> 🇻🇳 Fine-tune mô hình embedding 300M (EmbeddingGemma) cho tiếng Việt, phục vụ tìm kiếm ngữ nghĩa và pipeline RAG
+
+<a href="https://huggingface.co/LeNgocTu/vietnamese-embeddinggemma-300m">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-LeNgocTu%2Fvietnamese--embeddinggemma--300m-FFD21E?style=flat-square&logoColor=black"/>
+</a>
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/Embedding-5C3EE8?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine--tuning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semantic_Search-009688?style=flat-square&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+---
+
+### 🎧 Hệ thống AI hỗ trợ học tập tiếng Anh (IELTS)
+
+> 📝 Hệ thống luyện thi IELTS với 4 kỹ năng Writing, Speaking, Reading, Listening; agentic workflow kết hợp RAG, phản hồi cá nhân hóa và chấm điểm
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strands_Agents-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 </p>
 
 ---
 
 ### 📄 PDF Translation Tool – Personal Project
 
-> 🌍 Công cụ dịch tài liệu PDF thông minh, giữ nguyên bố cục
+> 🌍 Công cụ dịch tài liệu PDF thông minh, giữ nguyên bố cục, hỗ trợ xử lý hàng loạt tài liệu lớn
 
 **Tech Stack:**
 <p>
@@ -201,14 +259,14 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
   <img src="https://img.shields.io/badge/🏆_Euréka_2024-ĐH_Quốc_gia_TP.HCM_&_Thành_Đoàn_TP.HCM-gold?style=for-the-badge" alt="Eureka 2024"/>
 </p>
 
-> 📅 **11/2024** – Chứng nhận tham gia cuộc thi Euréka 2024
+> 📅 **11/2024** – Chứng nhận tham gia cuộc thi Euréka 2024 (Giải thưởng Sinh viên Nghiên cứu Khoa học)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Le-Ngoc-Tu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Le-Ngoc-Tu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
@@ -253,11 +311,17 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
   <a href="https://zalo.me/0969691930">
     <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo"/>
   </a>
+  <a href="https://huggingface.co/LeNgocTu">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  </a>
   <a href="https://github.com/Le-Ngoc-Tu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/le-ngoc-tu-8562a2347">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://lengoctu.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
@@ -275,10 +339,11 @@ Tôi là **Lập trình viên** với niềm đam mê mạnh mẽ dành cho **AI
 ---
 
 <!-- SEO Keywords (Hidden) -->
-<!-- 
-Keywords: Lê Ngọc Tú, Le Ngoc Tu, Backend Developer Vietnam, AI Developer, Machine Learning Engineer, 
-Face Recognition Developer, Python Developer, FastAPI Developer, YOLO Developer, Computer Vision Vietnam,
-FaceNet Developer, RetinaFace, RAG Systems, LLM Integration, Vietnam AI Developer, 
+<!--
+Keywords: Lê Ngọc Tú, Le Ngoc Tu, AI Engineer Vietnam, Machine Learning Engineer, LLM Engineer,
+RAG Systems, Fine-tuning LLM, Vietnamese NLP, Vietnamese Embedding Model, Text-to-Speech Vietnamese,
+Face Recognition Developer, Computer Vision Vietnam, YOLO Developer, Python Developer, FastAPI Developer,
+HuggingFace, EmbeddingGemma, Gemma Fine-tuning, Qdrant, FAISS, LlamaIndex, Ollama, vLLM,
 Đại học Phan Thiết, Vietnamese Software Engineer, AI Research Vietnam, NLTECH, Nguyen Luan Company,
-Phan Thiet Developer, Binh Thuan IT, Vietnam Tech, Backend Engineer Vietnam
+Phan Thiet Developer, Lam Dong IT, Vietnam Tech, AI Engineer Vietnam
 -->
