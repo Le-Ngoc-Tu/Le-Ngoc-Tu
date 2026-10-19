@@ -139,6 +139,25 @@ Tôi là **AI Engineer** với niềm đam mê mạnh mẽ dành cho **AI và Ma
 
 ## 🚀 Dự án tiêu biểu
 
+### 🌟 Motion Atlas – Showreel & Thư viện Component Hoạt ảnh GSAP
+
+> 🎬 Thư viện gồm 500 component hoạt ảnh GSAP 3 chuyên nghiệp, tối ưu hóa GPU hoàn toàn, đi kèm MCP Server cho AI Agent
+
+<a href="https://github.com/Le-Ngoc-Tu/gsap-motion-atlas">
+  <img src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/motion-atlas-showreel.gif" width="100%" alt="Motion Atlas Showreel"/><br>
+</a>
+
+**Tech Stack:**
+<p>
+  <img src="https://img.shields.io/badge/GSAP_3-88CE02?style=flat-square&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP_Server-412991?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+---
+
 ### 🏛️ Kiosk AI hỗ trợ thủ tục hành chính (AAAS Chatbot)
 
 > 🎯 Chatbot AI đa agent trên kiosk, hỗ trợ tra cứu thủ tục hành chính bằng giọng nói kết hợp RAG
