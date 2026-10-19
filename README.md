@@ -142,9 +142,12 @@ Tôi là **AI Engineer** với niềm đam mê mạnh mẽ dành cho **AI và Ma
 ### 🌟 Motion Atlas – Showreel & Thư viện Component Hoạt ảnh GSAP
 
 > 🎬 Thư viện gồm 500 component hoạt ảnh GSAP 3 chuyên nghiệp, tối ưu hóa GPU hoàn toàn, đi kèm MCP Server cho AI Agent
-
 <a href="https://github.com/Le-Ngoc-Tu/gsap-motion-atlas">
-  <img src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/motion-atlas-showreel.gif" width="100%" alt="Motion Atlas Showreel"/><br>
+  <img
+    src="https://raw.githubusercontent.com/Le-Ngoc-Tu/Le-Ngoc-Tu/main/motion-atlas-showreel.gif"
+    width="100%"
+    alt="Motion Atlas Showreel"
+  />
 </a>
 
 **Tech Stack:**
